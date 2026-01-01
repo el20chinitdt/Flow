@@ -156,6 +156,10 @@ e54e9ea87a634658fbba0e380aa701a7:4e486d25d7d0e7d131743b285963c643
 https://chromecast.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc/Eventos_3.mpd
 8b2fdf5a35d01a6ac888b7e8b1a2ddad:2c088b42e71dba1c572e7f04d2934430
 
+https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PromoCH/verimatrix_rotating/Placa_Futbol_PromoCH.m3u8
+
+https://cdn.cvattv.com.ar/live/c7eds/Placa_Futbol_PPV/verimatrix_rotating/Placa_Futbol_PPV.m3u8
+
 https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 
@@ -311,6 +315,8 @@ https://chromecast.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Sw
 9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
 
 HBO
+
+https://cdn.cvattv.com.ar/live/c7eds/Placa_HBO/verimatrix_rotating/Placa_HBO.m3u8
 
 https://chromecast.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
 5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
